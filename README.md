@@ -1,7 +1,9 @@
+[![View on LinkedIn](https://img.shields.io/badge/LinkedIn-View_Post-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/ahmed-mahmoud-80356b220_vois-iti-activity-7400783166271205376-eZHM?utm_source=share&utm_medium=member_android&rcm=ACoAADecsMMBu97hTyRUDC5CXeHA2jlzrbQpdVE)
 # SmartTicket Sync
 
 ## Project Overview
 ![SmartTicket Sync Workflow](https://github.com/user-attachments/assets/d03633f0-862a-4d3a-b7b5-cb82d3d588f7)
+
 
 
 **SmartTicket Sync** is a Bash scripting project developed as part of the ITI training program, inspired by real-world operational challenges encountered in enterprise environments like VOIS (Vodafone Intelligent Solutions).
